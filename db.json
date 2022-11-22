@@ -24,18 +24,13 @@
       "01-29": {
         "holiday": false,
         "name": "春节前补班",
-        "after": false,
-        "target": "春节",
         "date": "2022-01-29",
-        "rest": 7
       }
     },
     {
       "01-30": {
         "holiday": false,
         "name": "春节前补班",
-        "after": false,
-        "target": "春节",
         "date": "2022-01-30"
       }
     },
@@ -44,7 +39,6 @@
         "holiday": true,
         "name": "除夕",
         "date": "2022-01-31",
-        "rest": 9
       }
     },
     {
@@ -58,7 +52,6 @@
       "02-02": {
         "holiday": true,
         "name": "初二",
-        "wage": 3,
         "date": "2022-02-02"
       }
     }, 
@@ -66,7 +59,6 @@
       "02-03": {
         "holiday": true,
         "name": "初三",
-        "wage": 3,
         "date": "2022-02-03"
       }
     }, {
@@ -94,8 +86,6 @@
       "04-02": {
         "holiday": false,
         "name": "清明节前补班",
-        "after": false,
-        "target": "清明节",
         "date": "2022-04-02"
       }
     },
@@ -123,10 +113,7 @@
       "04-24": {
         "holiday": false,
         "name": "劳动节前补班",
-        "after": false,
-        "target": "劳动节",
         "date": "2022-04-24",
-        "rest": 19
       }
     },
     {
@@ -134,7 +121,6 @@
         "holiday": true,
         "name": "劳动节",
         "date": "2022-04-30",
-        "rest": 25
       }
     },
     {
@@ -169,8 +155,6 @@
       "05-07": {
         "holiday": false,
         "name": "劳动节后补班",
-        "after": true,
-        "target": "劳动节",
         "date": "2022-05-07"
       }
     },
@@ -200,7 +184,6 @@
         "holiday": true,
         "name": "中秋节",
         "date": "2022-09-10",
-        "rest": 17
       }
     }, {
       "09-11": {
@@ -220,7 +203,6 @@
       "10-01": {
         "holiday": true,
         "name": "国庆节",
-        "wage": 3,
         "date": "2022-10-01"
       }
     },
@@ -228,9 +210,7 @@
       "10-02": {
         "holiday": true,
         "name": "国庆节",
-        "wage": 3,
         "date": "2022-10-02",
-        "rest": 1
       }
     },
     {
@@ -265,27 +245,20 @@
         "holiday": true,
         "name": "国庆节",
         "date": "2022-10-07",
-        "rest": 1
       }
     },
     {
       "10-08": {
         "holiday": false,
-        "after": true,
         "name": "国庆节后补班",
-        "target": "国庆节",
         "date": "2022-10-08",
-        "rest": 1
       }
     },
     {
       "10-09": {
         "holiday": false,
-        "after": true,
         "name": "国庆节后补班",
-        "target": "国庆节",
         "date": "2022-10-09",
-        "rest": 1
       }
     },
     {
@@ -293,7 +266,6 @@
         "holiday": true,
         "name": "元旦",
         "date": "2022-12-31",
-        "rest": 39
       }
     }
   ],
